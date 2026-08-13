@@ -101,12 +101,12 @@
   },
   "index:62ab02a7-7456-4180-8be1-a62e5f545f52:heading": {
     "original": "Astro Minimal Starter",
-    "value": " Astro Minimal Starter ",
+    "value": "Astro Changed Starter",
     "_base_original": "Astro Minimal Starter"
   },
   "index:62ab02a7-7456-4180-8be1-a62e5f545f52:subheading": {
     "original": "<p>A <strong>minimal</strong> starting point for developers looking to build a website with Astro, using Editable Regions in CloudCannon. Create your own copy, and start creating your own components to use in the Visual Editor.</p>\n<p>Once you've explored this minimal starter, consider  taking a look at the <a href=\"https://github.com/CloudCannon/astro-component-starter\">Astro Component Starter</a> to assist in building out your components.</p>",
-    "value": "<p>Ein <strong>minimaler</strong> Ausgangspunkt für Entwickler, die eine Website mit Astro erstellen möchten – unter Verwendung von Editable Regions in CloudCannon. Erstellen Sie Ihre eigene Kopie und beginnen Sie, eigene Komponenten für den Visual Editor zu erstellen.</p>\n<p>Wenn Sie diesen minimalen Starter erkundet haben, werfen Sie einen Blick auf den <a href=\"https://github.com/CloudCannon/astro-component-starter\">Astro Component Starter</a>, der Sie beim Aufbau Ihrer Komponenten unterstützt.</p>\n",
+    "value": "<p>Ein <strong>minimaler</strong> Ausgangspunkt für Entwickler, die eine Website mit Astro erstellen möchten – unter Verwendung von Editable Regions in CloudCannon. Erstellen Sie Ihre eigene Kopie und beginnen Sie, eigene Komponenten für den Visual Editor zu erstellen.</p><p>Wenn Sie diesen minimalen Starter erkundet haben, werfen Sie einen Blick auf den <a href=\"https://github.com/CloudCannon/astro-component-starter\">Astro Component Starter</a>, der Sie beim Aufbau Ihrer Komponenten unterstützt.</p>",
     "_base_original": "<p>A <strong>minimal</strong> starting point for developers looking to build a website with Astro, using Editable Regions in CloudCannon. Create your own copy, and start creating your own components to use in the Visual Editor.</p>\n<p>Once you've explored this minimal starter, consider  taking a look at the <a href=\"https://github.com/CloudCannon/astro-component-starter\">Astro Component Starter</a> to assist in building out your components.</p>"
   },
   "index:953f2405-5e5c-41a1-839f-f12f23b12b9d:heading": {
